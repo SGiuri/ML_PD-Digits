@@ -1,11 +1,9 @@
 from math import ceil
-
 import matplotlib.pyplot as plt
 from numpy import unravel_index
 
 def show_multiple_img(images, targets):
     """
-
     :param images:
     :param targets:
     :return:
